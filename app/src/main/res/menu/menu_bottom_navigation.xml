@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/idHome"
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp" />
+
+    <item
+        android:id="@+id/idMail"
+        android:title="Mail"
+        android:icon="@drawable/ic_mail_black_24dp" />
+
+    <item
+        android:id="@+id/idVideocam"
+        android:title="Video"
+        android:icon="@drawable/ic_videocam_black_24dp" />
+</menu>
